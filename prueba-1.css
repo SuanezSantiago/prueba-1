@@ -1,18 +1,16 @@
 body
 {
-    background-image: url(/fondo2.png);
+    background-image: url(/absol.png);
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: auto;
-    text-align: center;
-    background-color: red;
 }
 h1
 {
     text-align: center;
-    background-color: pink;
+    background-color: grey;
 }
 ul
 {
-    background-color: chocolate;
+    background-color: black;
 }
